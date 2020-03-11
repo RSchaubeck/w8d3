@@ -1,0 +1,17 @@
+/* PHASE 3: Layout */
+.content {
+  display: flex;
+}
+
+.content-siebar {
+  min-height: 200px;
+  background-color: rgb(190, 150, 241);
+  width: 100px;
+}
+
+.content-main {
+  min-height: 200px;
+  background-color: rgb(236, 223, 106);
+  width: 300px;
+}
+
